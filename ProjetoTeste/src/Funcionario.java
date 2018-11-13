@@ -6,6 +6,7 @@ public class Funcionario {
 	private String endereco;
 	private String cidade;
 	private String estado;
+	private Cargo cargo;
 	
 
 }
